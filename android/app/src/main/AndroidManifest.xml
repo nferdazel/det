@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.quousever.det">
    <application
-        android:label="det"
+        android:label="Det"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
