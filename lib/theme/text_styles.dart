@@ -1,4 +1,4 @@
-import 'package:flutter/painting.dart';
+part of 'theme.dart';
 
 class Fads {
   static TextStyle titleX = const TextStyle(
