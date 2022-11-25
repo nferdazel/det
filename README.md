@@ -1,6 +1,13 @@
-# det
+# Det Finance
 
-A new Flutter project.
+Suckless finance management app.
+
+## Roadmap
+[] Expenses tracker  
+[] Offline and online backup  
+[] TBD  
+[] TBD
+
 
 ## Getting Started
 

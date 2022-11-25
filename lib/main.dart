@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'theme/theme.dart';
+import 'views/onboarding_view.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -14,15 +15,7 @@ class DetFinancial extends StatelessWidget {
     return MaterialApp(
       theme: Themes.light,
       darkTheme: Themes.dark,
-      home: const HomePage(),
+      home: const OnboardingView(),
     );
-  }
-}
-
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
-  @override
-  Widget build(BuildContext context) {
-    return Container();
   }
 }
